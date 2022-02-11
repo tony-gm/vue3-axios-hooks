@@ -1,0 +1,32 @@
+{
+  "name": "vue3-axios-hooks",
+  "version": "1.0.0",
+  "description": "vue3 axios hooks (composition api)",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tony-gm/vue3-axios-hooks.git"
+  },
+  "keywords": [
+    "vue3",
+    "axios",
+    "hooks",
+    "componsition api",
+    "typescript"
+  ],
+  "author": "tony.guo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tony-gm/vue3-axios-hooks/issues"
+  },
+  "homepage": "https://github.com/tony-gm/vue3-axios-hooks#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.0",
+    "typescript": "^4.5.5"
+  }
+}
